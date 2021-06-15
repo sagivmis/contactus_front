@@ -79,13 +79,13 @@ a {
 }
 
 .modall {
-  /* position: relative; */
-  /* left: 250px; */
-  /* height: auto;
+  position: relative;
+  left: 250px;
+  height: auto;
   top: auto;
   left: auto;
   bottom: auto;
-  right: auto; */
+  right: auto;
 }
 
 .carousel {
@@ -94,13 +94,13 @@ a {
 }
 
 /* modal center */
-.visible.transition {
+/* .visible.transition {
   margin-top: auto !important;
   display: inline-block !important;
   position: relative;
   top: 20%;
   left: 20%;
-}
+} */
 
 .top {
   position: relative;
