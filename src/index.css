@@ -79,13 +79,13 @@ a {
 }
 
 .modall {
-  position: relative;
-  left: 250px;
-  height: auto;
+  /* position: relative; */
+  /* left: 250px; */
+  /* height: auto;
   top: auto;
   left: auto;
   bottom: auto;
-  right: auto;
+  right: auto; */
 }
 
 .carousel {
